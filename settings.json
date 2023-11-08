@@ -1,0 +1,3 @@
+"ruby.rubocop.configFilePath": "path to .rubocop.yml file",
+"ruby.rubocop.executePath": "path to rubocop executable",
+"ruby.rubocop.useBundler": true // use rubocop for formatting
